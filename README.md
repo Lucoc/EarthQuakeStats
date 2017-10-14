@@ -69,7 +69,7 @@ EarthQuakeStats has total 6 screens (views/activities) ...
 	  - Provides a link to USGS website for more information about the selected earthquake
       - From this screen user can only go back to Latest Earthquakes (MainActivity)
 
-  5. **SearchActivity (Search Details)** :
+  5. **SearchActivity (Search City)** :
 	  - Gives capability to search city (uses Trie for recommendations) with earthquake
 	  - User can also refresh the data by click on refresh button in tool bar
 	  - Depending on the magnitude of the earthquake, the earthquake marker is colored
@@ -108,6 +108,7 @@ EarthQuakeStats has total 6 screens (views/activities) ...
 	      - Latest Earthquakes
 		  - View Earthquakes
 		  - Earthquake Statistics
+		  - Search City
 
   7. **AboutActivity (About Author and App)** :
       - Displays information about author and android application
