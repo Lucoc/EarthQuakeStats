@@ -3,12 +3,13 @@
 As part of CSC 518 OO Programming with Java course, EarthQuakeStats android app was developed for final term project.
 
 This project demonstrates key features of Java Language 
-	-	Object Oriented Programming
-	-	Encapsulation
-	-	Abstraction
-	-	Inheritance
-	-	Collection Framework
-	-	Generics
+ - Object Oriented Programming
+ - Encapsulation
+ - Abstraction
+ - Inheritance
+ - Polymorphism
+ - Collection Framework
+ - Generics
 
 
 ## Introduction ##
