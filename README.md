@@ -153,15 +153,15 @@ MainActivity, StatisticsActivity and SearchActivity have smart footer, which dis
 
 | Screen | ScreenShot |
 | ------------- | ------------- |
-| Launcher |  |
-| Navigation Drawer |  |
-| MainActivity |  |
-| MapActivity |  |
-| StatisticsActivity |  |
-| DetailsActivity |  |
-| SearchActivity |  |
-| SettingsActivity |  |
-| AboutActivity |  |
+| Launcher | <img src="https://user-images.githubusercontent.com/5839686/31578390-1dec1d3c-b0d5-11e7-8b89-99defc6ca432.png" width="150"> |
+| Navigation Drawer | <img src="https://user-images.githubusercontent.com/5839686/31578391-1e06473e-b0d5-11e7-883a-a7f56b6b7938.png" width="150"> |
+| MainActivity | <img src="https://user-images.githubusercontent.com/5839686/31578392-1e23be22-b0d5-11e7-9c52-068f5d3fe363.png" width="150"> |
+| MapActivity | <img src="https://user-images.githubusercontent.com/5839686/31578393-1e3b69be-b0d5-11e7-838b-7e325078fc59.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578394-1e58eff2-b0d5-11e7-8759-16c1b37b8057.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578380-1ce46caa-b0d5-11e7-8446-f7b6628efdb2.png" width="150"> |
+| StatisticsActivity | <img src="https://user-images.githubusercontent.com/5839686/31578381-1cff6a5a-b0d5-11e7-9a08-e5daa329bcce.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578382-1d1ab062-b0d5-11e7-8ee8-4d0ca02d4b7f.png" width="150"> |
+| DetailsActivity | <img src="https://user-images.githubusercontent.com/5839686/31578383-1d3571d6-b0d5-11e7-84e7-7ce836c23d97.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578384-1d507b0c-b0d5-11e7-993d-01bc12d0c9a4.png" width="150"> |
+| SearchActivity | <img src="https://user-images.githubusercontent.com/5839686/31578385-1d6cb376-b0d5-11e7-8f85-51ac1f875041.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578386-1d871982-b0d5-11e7-83cc-16da36249aaa.png" width="150"> |
+| SettingsActivity | <img src="https://user-images.githubusercontent.com/5839686/31578387-1d9f51f0-b0d5-11e7-9822-4bc611d575bf.png" width="150"> <img src="https://user-images.githubusercontent.com/5839686/31578388-1db7d0ea-b0d5-11e7-8576-4427a98f5c47.png" width="150"> |
+| AboutActivity | <img src="https://user-images.githubusercontent.com/5839686/31578389-1dd04ec2-b0d5-11e7-9e85-c1dfec5fab5c.png" width="150"> |
 
 
 ## Credits ##
