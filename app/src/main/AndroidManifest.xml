@@ -44,6 +44,7 @@
         <activity
             android:name=".activities.SearchActivity"
             android:label="@string/title_activity_search"
+            android:windowSoftInputMode="stateHidden"
             android:screenOrientation="portrait" />
 
         <activity
